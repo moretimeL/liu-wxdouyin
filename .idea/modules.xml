@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev.iml" filepath="$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-common/liuwdydevcommon.iml" filepath="$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-common/liuwdydevcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-config/liuwdydevconfig.iml" filepath="$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-config/liuwdydevconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-mapper/liuwdydevmapper.iml" filepath="$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-mapper/liuwdydevmapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-mini-api/liuwdydevminiapi.iml" filepath="$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-mini-api/liuwdydevminiapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-pojo/liuwdydevpojo.iml" filepath="$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-pojo/liuwdydevpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-service/liuwdydevservice.iml" filepath="$PROJECT_DIR$/liu-wdy-dev/liu-wdy-dev-service/liuwdydevservice.iml" />
+    </modules>
+  </component>
+</project>

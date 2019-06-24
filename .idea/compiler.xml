@@ -8,18 +8,30 @@
         <outputRelativeToContentRoot value="true" />
         <module name="liuwdydevcommon" />
         <module name="liuwdydevpojo" />
+        <module name="liuwdydevservice" />
+        <module name="liuwdydevconfig" />
+        <module name="liuwdydevminiapi" />
+        <module name="liuwdydevmapper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="liu-wdy-dev" target="1.8" />
       <module name="liuwdydevcommon" target="1.8" />
+      <module name="liuwdydevconfig" target="1.8" />
+      <module name="liuwdydevmapper" target="1.8" />
+      <module name="liuwdydevminiapi" target="1.8" />
       <module name="liuwdydevpojo" target="1.8" />
+      <module name="liuwdydevservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="liuwdydevcommon" options="-parameters" />
+      <module name="liuwdydevconfig" options="-parameters" />
+      <module name="liuwdydevmapper" options="-parameters" />
+      <module name="liuwdydevminiapi" options="-parameters" />
       <module name="liuwdydevpojo" options="-parameters" />
+      <module name="liuwdydevservice" options="-parameters" />
     </option>
   </component>
 </project>
